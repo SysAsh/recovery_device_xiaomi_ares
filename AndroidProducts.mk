@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_ares.mk
-    
+    $(LOCAL_DIR)/omni_ares.mk
+
 COMMON_LUNCH_CHOICES := \
-    twrp_ares-eng
+    omni_ares-eng
